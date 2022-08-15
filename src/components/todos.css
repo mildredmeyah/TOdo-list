@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+  }
+  input{
+    width: 70%;
+    height: 50px;
+    border-color: pink;
+    box-shadow: 5px;
+    color: aqua;
+    text-emphasis-color:aqua;
+    
+  }
+  .todo-form{
+    align-items: center;
+    color: aqua;
+    align-content: center;
+    padding: 300px;
+  }
+  body{
+    background-color: lightblue;
+  }
