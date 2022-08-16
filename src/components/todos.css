@@ -21,3 +21,29 @@
   body{
     background-color: lightblue;
   }
+.icons{
+  box-shadow: 5px;
+  color: aqua;
+  text-emphasis-color:aqua;
+  
+}
+.todo-input-edit{
+  width: 70%;
+  height: 50px;
+  border-color: pink;
+  box-shadow: 5px;
+  color: aqua;
+  text-emphasis-color:aqua;
+}
+Input{
+  width: 70%;
+  font-size: large;
+
+
+}
+#display{
+  display: flex;
+  height: 50px;
+  width: 500px;
+  
+}
